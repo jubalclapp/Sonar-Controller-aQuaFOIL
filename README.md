@@ -4,7 +4,7 @@ FPGA firmware for a 40KHz ultrasonic ride-height sensor on a foiling moth design
 - [x] uart_tx: 8N1 serial at 115200 baud verified in simulation
 ## Layout
 src/          SystemVerilog design, one module per file <br>
-tb/           testbenches
+tb/           testbenches<br>
 constraits/   pin and timing files
 
 ## Author
